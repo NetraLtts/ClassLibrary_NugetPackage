@@ -1,0 +1,12 @@
+C:\Users\40024497\source\repos\ClassLibrary_NugetPackage\ClassLibrary_NugetPackage\bin\Debug\net5.0\ClassLibrary_NugetPackage.deps.json
+C:\Users\40024497\source\repos\ClassLibrary_NugetPackage\ClassLibrary_NugetPackage\bin\Debug\net5.0\ClassLibrary_NugetPackage.dll
+C:\Users\40024497\source\repos\ClassLibrary_NugetPackage\ClassLibrary_NugetPackage\bin\Debug\net5.0\ref\ClassLibrary_NugetPackage.dll
+C:\Users\40024497\source\repos\ClassLibrary_NugetPackage\ClassLibrary_NugetPackage\bin\Debug\net5.0\ClassLibrary_NugetPackage.pdb
+C:\Users\40024497\source\repos\ClassLibrary_NugetPackage\ClassLibrary_NugetPackage\obj\Debug\net5.0\ClassLibrary_NugetPackage.csproj.AssemblyReference.cache
+C:\Users\40024497\source\repos\ClassLibrary_NugetPackage\ClassLibrary_NugetPackage\obj\Debug\net5.0\ClassLibrary_NugetPackage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40024497\source\repos\ClassLibrary_NugetPackage\ClassLibrary_NugetPackage\obj\Debug\net5.0\ClassLibrary_NugetPackage.AssemblyInfoInputs.cache
+C:\Users\40024497\source\repos\ClassLibrary_NugetPackage\ClassLibrary_NugetPackage\obj\Debug\net5.0\ClassLibrary_NugetPackage.AssemblyInfo.cs
+C:\Users\40024497\source\repos\ClassLibrary_NugetPackage\ClassLibrary_NugetPackage\obj\Debug\net5.0\ClassLibrary_NugetPackage.csproj.CoreCompileInputs.cache
+C:\Users\40024497\source\repos\ClassLibrary_NugetPackage\ClassLibrary_NugetPackage\obj\Debug\net5.0\ClassLibrary_NugetPackage.dll
+C:\Users\40024497\source\repos\ClassLibrary_NugetPackage\ClassLibrary_NugetPackage\obj\Debug\net5.0\ref\ClassLibrary_NugetPackage.dll
+C:\Users\40024497\source\repos\ClassLibrary_NugetPackage\ClassLibrary_NugetPackage\obj\Debug\net5.0\ClassLibrary_NugetPackage.pdb
